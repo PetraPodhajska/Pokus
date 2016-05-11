@@ -19,6 +19,8 @@ public class TestApp {
         System.out.println("Jak se máš?");
         System.out.println("Funguje to!");
         
+        System.out.println("Hello world");
+        System.out.println("Nice to see you");
     }
     
 }
