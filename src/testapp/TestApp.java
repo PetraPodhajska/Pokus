@@ -17,6 +17,7 @@ public class TestApp {
     public static void main(String[] args) {
         System.out.println("Ahoj světe");
         System.out.println("Jak se máš?");
+        System.out.println("Funguje to!");
         
     }
     
