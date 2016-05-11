@@ -15,7 +15,8 @@ public class TestApp {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Ahoj světe");
+        System.out.println("Hello world");
+        System.out.println("Nice to see you");
     }
     
 }
